@@ -169,7 +169,7 @@ calculadora-derivadas-flet/
 
 **Wilbert Miguel Nahuatlato**  
 Ingeniero Mecatrónico  
-GitHub: [@tu-usuario](https://github.com/tu-usuario)
+GitHub: [@tu-usuario](https://github.com/Wilbert83) 
 
 ---
 
